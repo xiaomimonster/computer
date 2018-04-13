@@ -1,0 +1,91 @@
+﻿/*
+* @Author: Administrator
+* @Date:   2018-03-07 11:29:58
+* @Last Modified by:   lenovo
+* @Last Modified time: 2018-03-08 20:21:34
+*/
+.computer{
+	width: 500px;
+	height: 888px;
+	background: #dde1e2;
+	margin: 0 auto;
+}
+.head{
+	width: 500px;
+	height: 79px;
+	background: #00a5c4;
+}
+.window{
+	width: 100%;
+	height: 259px;
+    background: #f0f0f0;
+}
+.xiala{
+	width: 100%;
+	height: 47px;
+	background: #dfe3e4;
+}
+.keyboard{
+	width: 100%;
+	height: 504px;
+	background: #dee2e3;
+}
+.anjian{
+	width: 123px;
+	height: 99px;
+	background: #f2f4f4;
+	float: left;
+	margin-right: 2px;
+	margin-bottom: 3px;
+	font-size: 38px;
+	color: #4e95d7;
+	text-align: center;
+	line-height: 99px;
+}
+.anjian2{
+	margin-right: 0px;
+}
+.anjian1{
+	width: 124px;
+}
+.head-left{
+	width: 94px;
+	height: 100%;
+	background: #00a5c4;
+	float: left;
+	margin-left: 23px;
+	font-size: 26px;
+	color: #ffffff;
+	line-height: 79px;
+}
+.head-right{
+	width: 7px;
+	height: 25px;
+	background: #00a5c4;
+	float: right;
+	margin-top: 26px;
+	margin-right: 30px;
+}
+.circle{
+	width: 7px;
+	height: 7px;
+	background: #ffffff;
+	border-radius: 50px;
+	margin-bottom: 2px;
+}
+.circle1{
+	margin-bottom: 0px;
+}
+.shu{
+	width: 3px;
+	height: 77px;
+	background:#f0f0f0;
+	float: right;
+	margin-right: 15px;
+	margin-top: 8px;
+}
+.main{
+	width: 31px;
+	height: 100%;
+	margin: 0 auto;
+}
